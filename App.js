@@ -231,3 +231,52 @@
             }
 
     // H. What's in Your Closet?
+    const kristynsCloset = [
+      "left shoe",
+      "cowboy boots",
+      "right sock",
+      "Per Scholas hoodie",
+      "green pants",
+      "yellow knit hat",
+      "marshmallow peeps"
+    ];
+    
+    // Thom's closet is more complicated. Check out this nested data structure!!
+    const thomsCloset = [
+      [
+        // These are Thom's shirts
+        "grey button-up",
+        "dark grey button-up",
+        "light blue button-up",
+        "blue button-up",
+      ],[
+        // These are Thom's pants
+        "grey jeans",
+        "jeans",
+        "PJs"
+      ],[
+        // Thom's accessories
+        "wool mittens",
+        "wool scarf",
+        "raybans"
+      ]
+    ];
+        // 1. What's Kristyn wearing today? Using bracket notation to access items in kristynsCloset, log the sentence "Kristyn is rocking that " + the third item in Kristyn's closet + " today!" to the console.
+
+        // 2. Kristyn just bought some sweet shades! Add "raybans" to her closet after "yellow knit hat".
+
+        // 3. Kristyn spilled coffee on her hat... modify this item to read "stained knit hat" instead of yellow.
+
+        // 4. Put together an outfit for Thom! Using bracket notation, access the first element in Thom's shirts array.
+
+        // 5. In the same way, access one item from Thom's pants array.
+
+        // 6. Access one item from Thom's accessories array.
+
+        // 7. Log a sentence about what Thom's wearing. Example: "Thom is looking fierce in a grey button-up, jeans and wool scarf!"
+
+        // 8. Get more specific about what kind of PJs Thom's wearing this winter. Modify the name of his PJ pants to Footie Pajamas.
+    
+
+// IV. Functions
+    // A. printGreeting
