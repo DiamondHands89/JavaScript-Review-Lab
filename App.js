@@ -207,3 +207,27 @@
             // console.log(myArray);
 
     // F. Biggie Smalls
+    // Write an if ... elsestatement that:
+        // 1. console.log()s "little number" if the number is entered is less than 100
+        // 2. console.log()s big numberif the number is greater than or equal to 100.
+            let ranVariable = 45;
+            if (ranVariable < 100) {
+                // console.log("little number")
+            } else {
+                // console.log("big number")
+            }
+
+    // G. Monkey in the Middle
+    // Write an if ... else if ... elsestatement:
+        // 1. console.log()little numberif the number entered is less than 5.
+        // 2. If the number entered is more than 10, log big number.
+        // 3. Otherwise, log "monkey".
+            if (ranVariable < 5) {
+                console.log("little number")
+            } else if (ranVariable > 10) {
+                console.log("big number")
+            } else {
+                console.log("monkey")
+            }
+
+    // H. What's in Your Closet?
